@@ -1,0 +1,12 @@
+C:\Users\lemin\source\repos\QuanLiKhachSan\DAL\bin\Debug\DAL.dll
+C:\Users\lemin\source\repos\QuanLiKhachSan\DAL\bin\Debug\DAL.pdb
+C:\Users\lemin\source\repos\QuanLiKhachSan\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\lemin\source\repos\QuanLiKhachSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\lemin\source\repos\QuanLiKhachSan\DAL\obj\Debug\DAL.dll
+C:\Users\lemin\source\repos\QuanLiKhachSan\DAL\obj\Debug\DAL.pdb
+D:\QuanLiKhachSan\DAL\bin\Debug\DAL.dll
+D:\QuanLiKhachSan\DAL\bin\Debug\DAL.pdb
+D:\QuanLiKhachSan\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\QuanLiKhachSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QuanLiKhachSan\DAL\obj\Debug\DAL.dll
+D:\QuanLiKhachSan\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,10 @@
+C:\Users\lemin\source\repos\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.GUI.resources
+C:\Users\lemin\source\repos\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+C:\Users\lemin\source\repos\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.QuanLyPhong.resources
+C:\Users\lemin\source\repos\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\lemin\source\repos\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\lemin\source\repos\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+C:\Users\lemin\source\repos\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+C:\Users\lemin\source\repos\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+C:\Users\lemin\source\repos\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+C:\Users\lemin\source\repos\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
